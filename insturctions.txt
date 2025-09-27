@@ -1,0 +1,57 @@
+Making Your Web Pages Responsive
+1. Initialize a new public repository named ch04project_username, where username is your
+school username.
+
+2. Create a new web document named index.html. It should contain the DOCTYPE
+declaration. Include the html, head, and body tags.
+
+3. Inside the body tag, include the semantic tags header, nav, main, and footer. Inside main,
+add two section tags. Assign an id of “image-flex” to the second section.
+
+4. Inside the nav tag, create an unordered list with links to Home, About, and Contact. Use
+the pound sign (#) for the About and Contact links.
+
+5. Save your changes. Create a subfolder named styles. Inside it, create two new stylesheets:
+main.css and print.css.
+
+6. Link both stylesheets in the head of your HTML document. Use media="print" for the
+print stylesheet.
+
+7. Add a meta tag in the head section to set the viewport for responsive design.
+
+8. Create a subfolder named media. Search online for four images of your choice. They
+should be the exact same dimensions for uniformity. Save them in the media folder. You
+can use Paint to resize or crop images as needed.
+
+9. Add your images to the image-flex section using the figure and figcaption tags for each
+image.
+
+10. Add a grid layout to the body tag in main.css, and set the image-flex section to use flex
+display.
+
+11. Add a style that makes all images responsive by setting the width to 100%.
+
+12. Add media queries in main.css for tablet and large screens to change the layout.
+
+13. In main.css, set your navigation list to use flex display and align items horizontally by
+default.
+
+14. Create a media query for smaller screens that stacks the navigation links vertically.
+
+15. Adjust spacing and alignment of the links within the nav list for both screen sizes to ensure
+readability and usability.
+
+16. Style the navigation list items for different screen sizes. Include hover styles and spacing.
+
+17. In print.css, hide the nav tag and all images. Ensure sections print one after the other
+vertically.
+
+18. Add styles for the header, heading 1, and footer that adjust appearance for mobile screens.
+
+19. Review your webpage using a mobile emulator. Test each breakpoint and make corrections
+as needed. Include screenshots of your webpage at three different breakpoints in the media
+subfolder.
+Making Your Web Pages Responsive 6
+
+20. Save all changes to your project files and push the changes to the repository. Submit a link
+to your GitHub repository.
