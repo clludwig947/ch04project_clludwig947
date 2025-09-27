@@ -52,6 +52,5 @@ vertically.
 as needed. Include screenshots of your webpage at three different breakpoints in the media
 subfolder.
 Making Your Web Pages Responsive 6
-
 20. Save all changes to your project files and push the changes to the repository. Submit a link
 to your GitHub repository.
